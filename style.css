@@ -32,6 +32,8 @@ body{
 .titulo-principal span{
     color:var(--verde);
     .botoes{
-        font-family: ;
+        font-family:'chakara petch',san-serif;
+        background-color:var(--botao-inativo);
+        color:var(--branco);
     }
 }
